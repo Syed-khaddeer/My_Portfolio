@@ -80,8 +80,9 @@ Portfolio/
 │   └── resume.pdf
 │
 └── README.md
+```
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 1. Clone the repository
 git clone https://github.com/Syed-khaddeer/Portfolio.git
 2. Open the project
@@ -92,7 +93,7 @@ Open index.html in any modern web browser.
 
 You can also open the project in Visual Studio Code and use Live Server.
 
-🔗 Project Links
+## 🔗 Project Links
 
 Some of my projects can be explored through the portfolio website.
 
@@ -102,7 +103,7 @@ Each project includes links to its GitHub repository and, where available, its l
 
 The portfolio will continue to evolve as I learn new technologies.
 
-Planned improvements include:
+## Planned improvements include:
 
 Add JavaScript functionality
 Add interactive UI components
@@ -118,7 +119,7 @@ This portfolio is also a record of my progress as I continue learning and improv
 
 The current version is built using HTML and CSS, with additional technologies planned for future versions.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Syed Khadeer Ahamed
 
